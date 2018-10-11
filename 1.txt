@@ -1,2 +1,8 @@
-hello
->
+yuhsfuhasf
+asfa
+c
+
+quit()
+
+exit()
+cat ()
