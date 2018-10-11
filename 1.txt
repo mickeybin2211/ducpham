@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 yuhsfuhasf
 asfa
 c
@@ -6,3 +7,8 @@ quit()
 
 exit()
 cat ()
+=======
+halo
+
+>
+>>>>>>> 4792603db261b33e6e1cba5407aaacf3bf6610ee
